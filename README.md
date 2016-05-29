@@ -1,1 +1,1 @@
-# course-template
+# course-templete

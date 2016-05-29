@@ -1,0 +1,19 @@
+{
+  "name": "shelie-gitbook-templete",
+  "version": "1.0.0",
+  "description": "git book templete",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shelie/shelie-gitbook-template.git"
+  },
+  "keywords": [
+    "gitbook",
+    "markdown"
+  ],
+  "dependencies": {
+    "gitbook-cli": "2.2.0"
+  }
+}
+
+
